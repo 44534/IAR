@@ -10,6 +10,7 @@ license-file:        LICENSE
 author:              Clara Waldmann
 maintainer:          clara.waldmann@tum.de
 -- copyright:           
+homepage:            https://44534.github.io/IAR/
 category:            Math
 build-type:          Simple
 -- extra-source-files:  
