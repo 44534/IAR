@@ -37,9 +37,7 @@ resolver: lts-6.6
 # will not be run. This is useful for tweaking upstream packages.
 packages:
 - '.'
-- location: 
-    git: 'git@github.com:44534/omega-automata.git'
-    commit: f70f244599f55d28d1ca40e8fbb5587ac284c299
+- location: https://github.com/44534/omega-automata/archive/master.zip
   extra-dep: true
 # Dependency packages to be pulled from upstream that are not in the resolver
 # (e.g., acme-missiles-0.3)
