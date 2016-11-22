@@ -1,5 +1,6 @@
 IAR
 ===
+[![Build Status](https://travis-ci.org/44534/IAR.svg?branch=master)](https://travis-ci.org/44534/IAR)
 
 A module to translate deterministic Rabin automata into deterministic parity automata using Index Appearance Records (IARs).
 
